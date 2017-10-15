@@ -1,4 +1,4 @@
-<img scr="Featured-Choropleth-Map.png" align="right" />
+<img src="Featured-Choropleth-Map.png" width="400" height="200" align="right" />
 
 # fuzzy-spoon
 
